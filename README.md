@@ -1,7 +1,7 @@
 # Locale Remulator
 
 [![license](https://img.shields.io/github/license/InWILL/Locale_Remulator.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![GitHub all releases](https://img.shields.io/github/downloads/InWILL/Locale_Remulator/total)](https://github.com/InWILL/Locale_Remulator/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/InWILL/Locale_Remulator/total)](https://https://github.com/Huang7741/LR/releases)
 
 ### English | [简体中文](#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-1)
 
