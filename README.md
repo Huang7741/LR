@@ -13,7 +13,7 @@ The most important reason is that Japan MapleStory will become 64-bit.
 
 ## Download
 
-Download available at <https://github.com/InWILL/Locale_Remulator/releases/latest>.
+Download available at <https://github.com/Huang7741/LR/releases>.
 
 ## Getting Started
 
@@ -103,7 +103,7 @@ Please update Locale_Remulator to 1.4.3-beta.2+
 
 ## 下载
 
-可在 <https://github.com/InWILL/Locale_Remulator/releases/latest> 下载。
+可在 <https://github.com/Huang7741/LR/releases> 下载。
 
 ## 入门
 
