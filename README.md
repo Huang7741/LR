@@ -175,7 +175,7 @@ Please update Locale_Remulator to 1.4.3-beta.2+
 
 请升级到Locale_Remulator.1.4.3-beta.2以上。
 
-## 此来源于 https://github.com/InWILL/Locale_Remulator/
+## 来源于 https://github.com/InWILL/Locale_Remulator/
 
 
 
