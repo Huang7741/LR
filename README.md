@@ -175,6 +175,4 @@ Please update Locale_Remulator to 1.4.3-beta.2+
 
 请升级到Locale_Remulator.1.4.3-beta.2以上。
 
-## 捐赠
 
-![收款码405x250](https://user-images.githubusercontent.com/13805009/185916994-6a17d723-27f6-4eec-8571-ad869ad99cf0.png)
